@@ -1,0 +1,20 @@
+# Virtual environment
+/venv
+
+# Poetry files
+poetry.lock
+
+# PyCharm IDE-specific files
+.idea/
+
+# General temporary files
+__pycache__/
+
+# Compiled Python files
+*.pyc
+
+# Other potential temporary files
+*.swp
+
+# macOS
+.DS_Store
